@@ -1,6 +1,8 @@
-### Hello!
+### Hello, I'm Nathan!
 
+I would like to learn the other machine learning techniques which are not neural networks. I'm curious to know what other options are avaliable!
 
+I'm currently finishing up several games I'm working on. I enjoy making both computer and board games, and I figure it's about time I start finishing some of the many projects I've started. I'm also on the tennis team here at Coe, and I'm hoping for a good season!
 
 <!--
 **NathanMeskell/NathanMeskell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
